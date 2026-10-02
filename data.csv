@@ -1,0 +1,39 @@
+question_id,question,category,count,percentage_of_201,analysis_note
+Q2,Age,12-16,33,16.4,Categories reproduced exactly as configured in the Google Form.
+Q2,Age,17-20,82,40.8,Categories reproduced exactly as configured in the Google Form.
+Q2,Age,20-50,52,25.9,Categories reproduced exactly as configured in the Google Form.
+Q2,Age,50+,34,16.9,Categories reproduced exactly as configured in the Google Form.
+Q3,Habitual AI use,"Yes, I use AI frequently",86,42.8,
+Q3,Habitual AI use,"Yes, I use AI sometimes",70,34.8,
+Q3,Habitual AI use,"Yes, I use AI but rarely",36,17.9,
+Q3,Habitual AI use,"No, I do not use AI",9,4.5,
+Q4,Agreement that AI/autonomous systems will play a key role in future conflicts,1,10,5.0,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q4,Agreement that AI/autonomous systems will play a key role in future conflicts,2,21,10.4,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q4,Agreement that AI/autonomous systems will play a key role in future conflicts,3,29,14.4,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q4,Agreement that AI/autonomous systems will play a key role in future conflicts,4,79,39.3,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q4,Agreement that AI/autonomous systems will play a key role in future conflicts,5,62,30.8,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q5,Perceived imminent risks of AI in defence,Unintended Civilian Casualties,94,46.8,Select-all-that-apply; percentages do not sum to 100%.
+Q5,Perceived imminent risks of AI in defence,Rapid Escalation of War,71,35.3,Select-all-that-apply; percentages do not sum to 100%.
+Q5,Perceived imminent risks of AI in defence,Burden of Human Accountability Shifted,86,42.8,Select-all-that-apply; percentages do not sum to 100%.
+Q5,Perceived imminent risks of AI in defence,Vulnerability to Cyber Attacks/Hacking/Cyber-poisoning,165,82.1,Select-all-that-apply; percentages do not sum to 100%.
+Q6,Primary legal/ethical responsibility for unintended AI-guided civilian casualties,The AI System and its Developers,6,3.0,The form also allowed an 'Other' text response; those responses are retained in the audit but are not silently recoded.
+Q6,Primary legal/ethical responsibility for unintended AI-guided civilian casualties,The Official/Supervisor responsible for the decision,66,32.8,The form also allowed an 'Other' text response; those responses are retained in the audit but are not silently recoded.
+Q6,Primary legal/ethical responsibility for unintended AI-guided civilian casualties,Both,117,58.2,The form also allowed an 'Other' text response; those responses are retained in the audit but are not silently recoded.
+Q7,International legal conventions/treaties regulating AI in warfare,Yes,187,93.0,
+Q7,International legal conventions/treaties regulating AI in warfare,No,14,7.0,
+Q8,Ethical permissibility of AI-generated sensitive information for selective targeting,1,22,10.9,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q8,Ethical permissibility of AI-generated sensitive information for selective targeting,2,34,16.9,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q8,Ethical permissibility of AI-generated sensitive information for selective targeting,3,65,32.3,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q8,Ethical permissibility of AI-generated sensitive information for selective targeting,4,48,23.9,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q8,Ethical permissibility of AI-generated sensitive information for selective targeting,5,32,15.9,Linear-scale response; 1 = Strongly Disagree/Not permissible and 5 = Strongly Agree/Permissible.
+Q10,Access to citizens' personal information on national-security grounds,"Yes, they should be allowed complete access",6,3.0,
+Q10,Access to citizens' personal information on national-security grounds,"Yes, but partially under mandated democratic guidelines",91,45.3,
+Q10,Access to citizens' personal information on national-security grounds,"No, definitely not",104,51.7,
+Q11,AI pre-emptive strike with approximately 85% predictive accuracy — direct form selections,"Yes, at its own discretion",4,2.0,The form also allowed 'Other' text. Direct-option results are kept separate from semantic recoding.
+Q11,AI pre-emptive strike with approximately 85% predictive accuracy — direct form selections,"Yes, but only after seeking confirmation with the operator in charge",160,79.6,The form also allowed 'Other' text. Direct-option results are kept separate from semantic recoding.
+Q11,AI pre-emptive strike with approximately 85% predictive accuracy — direct form selections,No,6,3.0,The form also allowed 'Other' text. Direct-option results are kept separate from semantic recoding.
+Q14,Whether the pros of using AI in defence significantly outweigh the cons,1,20,10.0,Linear-scale response; 1 = Definitely Not and 5 = Definitely.
+Q14,Whether the pros of using AI in defence significantly outweigh the cons,2,37,18.4,Linear-scale response; 1 = Definitely Not and 5 = Definitely.
+Q14,Whether the pros of using AI in defence significantly outweigh the cons,3,78,38.8,Linear-scale response; 1 = Definitely Not and 5 = Definitely.
+Q14,Whether the pros of using AI in defence significantly outweigh the cons,4,45,22.4,Linear-scale response; 1 = Definitely Not and 5 = Definitely.
+Q14,Whether the pros of using AI in defence significantly outweigh the cons,5,21,10.4,Linear-scale response; 1 = Definitely Not and 5 = Definitely.

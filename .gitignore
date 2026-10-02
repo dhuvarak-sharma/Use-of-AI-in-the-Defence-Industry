@@ -1,0 +1,21 @@
+# Raw/private survey exports
+*.xlsx
+*.xls
+*.ods
+raw-data/
+private-data/
+
+# Python / notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
